@@ -34,6 +34,6 @@ app.post('/api/enviarEmail',(req,res)=>{
 
 
 //arrancar el servidor
-app.listen(4000, () => {
-  console.log("Servidor corriendo en el puerto 4000");
+app.listen(6000, () => {
+  console.log("Servidor corriendo en el puerto 6000");
 });
